@@ -14,6 +14,7 @@
     <img src="https://wakatime.com/badge/user/67f40e9d-8818-4e5c-b889-df89a0380bd2.svg" alt="Total time coded since Jun 21 2025" />
   </a>
 </p>
+<a href="https://42cv.dev/edraccan"><img src="https://42cv.dev/api/badge/cmpv7nr7100000kqsbjii5rlm/stats?cursusId=21&coalitionId=piscine" alt="edraccan's 42 stats" /></a>
 <!--
 <p align="center">
   <p>
